@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Shantanu Goswami",
     "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "url": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "http://www.taskkers.com/thumb.php?src=tk_admin/user_profilepic/user_1860_6782.jpg&x=200&y=200&q=100&f=0",
+    "email": "shaanjyot13@gmail.com",
+    "phone": "(+91) 90855388447",
+    "url": "https://me-web.vercel.app/shanzantrik",
+    "summary": "Analytical IT Project manager and hands-on developer with more than 14 years’ experience in the IT services industry, specializing in custom software application development lifecycle, web and mobile-centric app development and business analytics applications. Also, have hands-on experience in Digital brand building and promotions. In my current role, I have been responsible for rolling out multiple software development projects for enterprise, Govt. and Private Clients thereby enabling critical business processes and operations.",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "address": "1B, Swasti Residency-2, Chilarai Path, Beltola",
+      "postalCode": "781029",
+      "city": "Guwahati",
+      "countryCode": "IN",
+      "region": "Assam"
     },
     "profiles": [{
       "network": "Twitter",
@@ -21,9 +21,9 @@
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "Developer",
-    "url": "http://somecompany.com",
+    "name": "Sterlite Power Transmission Limited",
+    "position": "Chief Manager Web Applications",
+    "url": "https://sterlitepower.com",
     "startDate": "2020-01-01",
     "endDate": "2020-01-01",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
